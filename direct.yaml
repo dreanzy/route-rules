@@ -1,0 +1,19 @@
+payload:
+  - PROCESS-NAME,syncthing.exe
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,Weixin.exe
+  - PROCESS-NAME,WeChatAppEx.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,GameViewer.exe
+  - PROCESS-NAME,GameViewerServer.exe
+  - PROCESS-NAME,WXWork.exe
+  - PROCESS-NAME,WXWorkWeb.exe
+  - PROCESS-NAME,WXDrive_x64.exe
+  - "PROCESS-NAME,Tuanjie Hub.exe"
+  - DST-PORT,22000
+  - DST-PORT,21027
+  - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,commandcode.ai
+  - DOMAIN-SUFFIX,pi.dev
+  - DOMAIN-SUFFIX,7moor.com
+  - DOMAIN-SUFFIX,qireader.com.cn
