@@ -10,6 +10,8 @@ payload:
   - PROCESS-NAME,WXWorkWeb.exe
   - PROCESS-NAME,WXDrive_x64.exe
   - PROCESS-NAME,gs-server.exe
+  - PROCESS-NAME,HipsMain.exe
+  - PROCESS-NAME,wpsupdate.exe
   - "PROCESS-NAME,Tuanjie Hub.exe"
   - DST-PORT,22000
   - DST-PORT,21027
