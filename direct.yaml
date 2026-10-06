@@ -1,26 +1,45 @@
 payload:
+  # syncthing
   - PROCESS-NAME,syncthing.exe
+  - DST-PORT,22000
+  - DST-PORT,21027
+  # steam 非网页客户端
   - PROCESS-NAME,steam.exe
+  # 微信
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,WeChatAppEx.exe
+  # qq
   - PROCESS-NAME,QQ.exe
+  # uu远程
   - PROCESS-NAME,GameViewer.exe
   - PROCESS-NAME,GameViewerServer.exe
+  # 企业微信
   - PROCESS-NAME,WXWork.exe
   - PROCESS-NAME,WXWorkWeb.exe
   - PROCESS-NAME,WXDrive_x64.exe
   - PROCESS-NAME,WeMailNode_x64.exe
+  # goodsync
   - PROCESS-NAME,gs-server.exe
+  # 火绒
   - PROCESS-NAME,HipsMain.exe
   - PROCESS-NAME,HipsDaemon.exe
+  # wps
   - PROCESS-NAME,wpsupdate.exe
+  - PROCESS-NAME,wpscloudsvr.exe
+  # utools
   - PROCESS-NAME,uTools.exe
+  # tailscale
+  - PROCESS-NAME,tailscaled.exe
+  # 团结引擎
   - "PROCESS-NAME,Tuanjie Hub.exe"
   - "PROCESS-NAME,Tuanjie.Licensing.Client.exe"
-  - DST-PORT,22000
-  - DST-PORT,21027
+  # opencode
   - DOMAIN-SUFFIX,opencode.ai
+  # commandcode
   - DOMAIN-SUFFIX,commandcode.ai
+  # pi
   - DOMAIN-SUFFIX,pi.dev
+  # 123网盘-客服
   - DOMAIN-SUFFIX,7moor.com
+  # qireader
   - DOMAIN-SUFFIX,qireader.com.cn
