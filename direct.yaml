@@ -26,6 +26,7 @@ payload:
   # wps
   - PROCESS-NAME,wpsupdate.exe
   - PROCESS-NAME,wpscloudsvr.exe
+  - PROCESS-NAME,et.exe
   # utools
   - PROCESS-NAME,uTools.exe
   # tailscale
@@ -33,6 +34,9 @@ payload:
   # 团结引擎
   - "PROCESS-NAME,Tuanjie Hub.exe"
   - "PROCESS-NAME,Tuanjie.Licensing.Client.exe"
+  - PROCESS-NAME,TuanjiePackageManager.exe
+  # axure
+  - PROCESS-NAME,AxureRP11.exe
   # opencode
   - DOMAIN-SUFFIX,opencode.ai
   # commandcode
