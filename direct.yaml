@@ -16,6 +16,7 @@ payload:
   - PROCESS-NAME,wpsupdate.exe
   - PROCESS-NAME,uTools.exe
   - "PROCESS-NAME,Tuanjie Hub.exe"
+  - "PROCESS-NAME,Tuanjie.Licensing.Client.exe"
   - DST-PORT,22000
   - DST-PORT,21027
   - DOMAIN-SUFFIX,opencode.ai
