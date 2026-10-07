@@ -8,6 +8,8 @@ payload:
   # 微信
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,WeChatAppEx.exe
+  # 微信输入法
+  - PROCESS-NAME,wetype_renderer.exe
   # qq
   - PROCESS-NAME,QQ.exe
   # uu远程
@@ -31,6 +33,11 @@ payload:
   - PROCESS-NAME,uTools.exe
   # tailscale
   - PROCESS-NAME,tailscaled.exe
+  # unity 引擎
+  - PROCESS-NAME,Unity.exe
+  - "PROCESS-NAME,Unity Hub.exe"
+  - PROCESS-NAME,UnityPackageManager.exe
+  - PROCESS-NAME,Unity.Licensing.Client.exe
   # 团结引擎
   - "PROCESS-NAME,Tuanjie Hub.exe"
   - "PROCESS-NAME,Tuanjie.Licensing.Client.exe"
