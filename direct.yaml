@@ -26,6 +26,9 @@ payload:
   # 火绒
   - PROCESS-NAME,HipsMain.exe
   - PROCESS-NAME,HipsDaemon.exe
+  - PROCESS-NAME,HnCloudService.exe
+  - PROCESS-NAME,HRUpdate.exe
+  - PROCESS-NAME,HrAppStoreHive.exe
   # wps
   - PROCESS-NAME,wpsupdate.exe
   - PROCESS-NAME,wpscloudsvr.exe
