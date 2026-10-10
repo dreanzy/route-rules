@@ -10,6 +10,7 @@ payload:
   - PROCESS-NAME,WeChatAppEx.exe
   # 微信输入法
   - PROCESS-NAME,wetype_renderer.exe
+  - PROCESS-NAME,wetype_server.exe
   # qq
   - PROCESS-NAME,QQ.exe
   # uu远程
@@ -29,6 +30,7 @@ payload:
   - PROCESS-NAME,wpsupdate.exe
   - PROCESS-NAME,wpscloudsvr.exe
   - PROCESS-NAME,et.exe
+  - PROCESS-NAME,promecefpluginhost.exe
   # utools
   - PROCESS-NAME,uTools.exe
   # tailscale
