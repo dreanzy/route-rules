@@ -50,8 +50,6 @@ payload:
   - DOMAIN-SUFFIX,opencode.ai
   # commandcode
   - DOMAIN-SUFFIX,commandcode.ai
-  # pi
-  - DOMAIN-SUFFIX,pi.dev
   # 123网盘-客服
   - DOMAIN-SUFFIX,7moor.com
   # qireader
