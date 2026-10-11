@@ -23,6 +23,7 @@ payload:
   - PROCESS-NAME,WeMailNode_x64.exe
   # goodsync
   - PROCESS-NAME,gs-server.exe
+  - PROCESS-NAME,GoodSync.exe
   # 火绒
   - PROCESS-NAME,HipsMain.exe
   - PROCESS-NAME,HipsDaemon.exe
