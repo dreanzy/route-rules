@@ -1,4 +1,6 @@
 payload:
+  # youtube
   - DOMAIN-SUFFIX,youtube.com
+  # vivaldi
   - DOMAIN-SUFFIX,vivaldi.com
   - DOMAIN-SUFFIX,vivaldi.net

@@ -56,3 +56,5 @@ payload:
   - DOMAIN-SUFFIX,7moor.com
   # qireader
   - DOMAIN-SUFFIX,qireader.com.cn
+  # 飞书
+  - DOMAIN-SUFFIX,feishu.cn
