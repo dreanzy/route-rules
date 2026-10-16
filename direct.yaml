@@ -39,6 +39,7 @@ payload:
   - PROCESS-NAME,uTools.exe
   # tailscale
   - PROCESS-NAME,tailscaled.exe
+  - PROCESS-NAME,Tailscale.exe
   - PROCESS-NAME,tailscale-ipn.exe
   # unity 引擎
   - PROCESS-NAME,Unity.exe
