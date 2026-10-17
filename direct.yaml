@@ -30,6 +30,7 @@ payload:
   - PROCESS-NAME,HnCloudService.exe
   - PROCESS-NAME,HRUpdate.exe
   - PROCESS-NAME,HrAppStoreHive.exe
+  - PROCESS-NAME,SecTask.exe
   # wps
   - PROCESS-NAME,wpsupdate.exe
   - PROCESS-NAME,wpscloudsvr.exe
