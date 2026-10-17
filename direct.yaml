@@ -41,6 +41,9 @@ payload:
   - PROCESS-NAME,tailscaled.exe
   - PROCESS-NAME,Tailscale.exe
   - PROCESS-NAME,tailscale-ipn.exe
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,ts.net
+  - DOMAIN-SUFFIX,tailscale.io
   # unity 引擎
   - PROCESS-NAME,Unity.exe
   - "PROCESS-NAME,Unity Hub.exe"
