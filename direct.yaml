@@ -51,6 +51,7 @@ payload:
   - PROCESS-NAME,UnityPackageManager.exe
   - PROCESS-NAME,Unity.Licensing.Client.exe
   # 团结引擎
+  - PROCESS-NAME,Tuanjie.exe
   - "PROCESS-NAME,Tuanjie Hub.exe"
   - "PROCESS-NAME,Tuanjie.Licensing.Client.exe"
   - PROCESS-NAME,TuanjiePackageManager.exe
