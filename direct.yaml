@@ -65,3 +65,5 @@ payload:
   - DOMAIN-SUFFIX,qireader.com.cn
   # 飞书
   - DOMAIN-SUFFIX,feishu.cn
+  # dsh-remote
+  - DOMAIN-SUFFIX,r2049.cn
