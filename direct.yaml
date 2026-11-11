@@ -67,3 +67,6 @@ payload:
   - DOMAIN-SUFFIX,feishu.cn
   # dsh-remote
   - DOMAIN-SUFFIX,r2049.cn
+  # DSH Remote: 信令/TURN 直连，避免 TUN 代理导致 WebRTC 打洞失败
+  - DOMAIN-SUFFIX,trycloudflare.com
+  - DOMAIN-SUFFIX,argotunnel.com
