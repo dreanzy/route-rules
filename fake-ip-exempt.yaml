@@ -1,0 +1,75 @@
+payload:
+  # 局域网与内网解析
+  - '*.lan'
+  - '*.local'
+  - '*.arpa'
+  # 时间同步（NTP 客户端常按域名轮询）
+  - 'time.*.com'
+  - 'ntp.*.com'
+  # GitHub 全系：主站、原始文件、静态资源、OAuth
+  - '+.github.com'
+  - '+.githubusercontent.com'
+  - '+.githubassets.com'
+  - '+.githubapp.com'
+  # Tailscale 组网，解析失败会导致节点离线
+  - '+.tailscale.com'
+  - '+.ts.net'
+  - '+.tailscale.io'
+  # Cloudflare Tunnel 与 Access：与 prepend-rules 里的 DIRECT 规则配套
+  - '+.trycloudflare.com'
+  - '+.argotunnel.com'
+  - '+.cloudflare.com'
+  - '+.cloudflareaccess.com'
+  # Windows 联网状态检测，被伪造会显示"无 Internet"
+  - '*.msftncsi.com'
+  - 'www.msftconnecttest.com'
+  # 包与文档
+  - 'pypi.org'
+  - 'docs.rs'
+  - 'aur.archlinux.org'
+  - 'docs.syncthing.net'
+  - 'docs.agno.com'
+  # 通用参考
+  - 'en.wikipedia.org'
+  - 'www.cnblogs.com'
+  - 'www.runoob.com'
+  - 'x.com'
+  - 'bananasjim.github.io'
+  # 软件自带的老例外：QQ 登录辅助、小米应用市场
+  - 'localhost.ptlogin2.qq.com'
+  - '+.market.xiaomi.com'
+  # npm 生态
+  - '+.npmjs.org'
+  - '+.npmjs.com'
+  - 'pnpm.io'
+  # 文档站
+  - 'docs.unity3d.com'
+  - 'docs.unity.cn'
+  - 'api-docs.deepseek.com'
+  - 'platform.deepseek.com'
+  - 'wiki.metacubex.one'
+  # 抓取中转
+  - 'r.jina.ai'
+  # 词典、百科、问答
+  - 'dictionary.cambridge.org'
+  - 'www.iciba.com'
+  - 'baike.baidu.com'
+  - 'zhuanlan.zhihu.com'
+  - 'community.spiceworks.com'
+  # DSH 生态站点
+  - 'dshfind.com'
+  - 'deepseekharnessplugins.com'
+  - 'deepseekharness.io'
+  - 'dsh-plugin.org'
+  - 'www.dshdesktop.cn'
+  - 'www.dshdesktop.com'
+  - 'dshmarket.com'
+  - 'dshbase.com'
+  - 'deepseekagent.io'
+  - 'deepseekdocs.com'
+  - 'www.dsh.so'
+  # Syncthing 文档
+  - 'docs.syncthing.net'
+  # 其他
+  - 'learn-en.org'
+  - 'jichanga.world'
