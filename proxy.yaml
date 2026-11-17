@@ -6,3 +6,8 @@ payload:
   - DOMAIN-SUFFIX,vivaldi.net
   # openai
   - DOMAIN-SUFFIX,openai.com
+  # commandcode
+  - DOMAIN-SUFFIX,commandcode.ai
+  # unity
+  - DOMAIN-SUFFIX,unity.com
+  - DOMAIN-SUFFIX,unity3d.com
