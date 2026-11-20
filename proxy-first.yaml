@@ -1,0 +1,5 @@
+payload:
+  # opencode
+  - DOMAIN-SUFFIX,opencode.ai
+  # commandcode
+  - DOMAIN-SUFFIX,commandcode.ai

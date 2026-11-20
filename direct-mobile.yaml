@@ -1,6 +1,4 @@
 payload:
-  # opencode
-  - DOMAIN-SUFFIX,opencode.ai
   # 123网盘-客服
   - DOMAIN-SUFFIX,7moor.com
   # qireader

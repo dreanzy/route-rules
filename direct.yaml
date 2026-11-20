@@ -57,8 +57,6 @@ payload:
   - PROCESS-NAME,TuanjiePackageManager.exe
   # axure
   - PROCESS-NAME,AxureRP11.exe
-  # opencode
-  - DOMAIN-SUFFIX,opencode.ai
   # 123网盘-客服
   - DOMAIN-SUFFIX,7moor.com
   # qireader

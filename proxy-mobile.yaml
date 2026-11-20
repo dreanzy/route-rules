@@ -6,5 +6,3 @@ payload:
   - DOMAIN-SUFFIX,vivaldi.net
   # openai
   - DOMAIN-SUFFIX,openai.com
-  # commandcode
-  - DOMAIN-SUFFIX,commandcode.ai
